@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC.DependencyApp", "UC.DependencyApp\UC.DependencyApp.csproj", "{3024167F-BD8A-4153-925C-67F42D8316A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC.Dependency.BAL", "UC.Dependency.BAL\UC.Dependency.BAL.csproj", "{CD614E59-9C64-4B4D-8B79-B41E5F4DAA26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC.Dependency.DAL", "UC.Dependency.DAL\UC.Dependency.DAL.csproj", "{1A42EBDE-DAAB-48DF-9470-EC073356D18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC.Dependency.DTO", "UC.Dependency.DTO\UC.Dependency.DTO.csproj", "{04EE8B37-E82D-42F9-A642-2CF33D955EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3024167F-BD8A-4153-925C-67F42D8316A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3024167F-BD8A-4153-925C-67F42D8316A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3024167F-BD8A-4153-925C-67F42D8316A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3024167F-BD8A-4153-925C-67F42D8316A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD614E59-9C64-4B4D-8B79-B41E5F4DAA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD614E59-9C64-4B4D-8B79-B41E5F4DAA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD614E59-9C64-4B4D-8B79-B41E5F4DAA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD614E59-9C64-4B4D-8B79-B41E5F4DAA26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A42EBDE-DAAB-48DF-9470-EC073356D18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A42EBDE-DAAB-48DF-9470-EC073356D18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A42EBDE-DAAB-48DF-9470-EC073356D18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A42EBDE-DAAB-48DF-9470-EC073356D18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EE8B37-E82D-42F9-A642-2CF33D955EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EE8B37-E82D-42F9-A642-2CF33D955EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EE8B37-E82D-42F9-A642-2CF33D955EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EE8B37-E82D-42F9-A642-2CF33D955EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B20C72DA-30B8-4924-9D0A-B41B37405026}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://unifycloudteam.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UC.Dependency.BAL\\UC.Dependency.BAL.csproj
+		SccProjectName1 = UC.Dependency.BAL
+		SccLocalPath1 = UC.Dependency.BAL
+		SccProjectUniqueName2 = UC.Dependency.DAL\\UC.Dependency.DAL.csproj
+		SccProjectName2 = UC.Dependency.DAL
+		SccLocalPath2 = UC.Dependency.DAL
+		SccProjectUniqueName3 = UC.Dependency.DTO\\UC.Dependency.DTO.csproj
+		SccProjectName3 = UC.Dependency.DTO
+		SccLocalPath3 = UC.Dependency.DTO
+		SccProjectUniqueName4 = UC.DependencyApp\\UC.DependencyApp.csproj
+		SccProjectName4 = UC.DependencyApp
+		SccLocalPath4 = UC.DependencyApp
+	EndGlobalSection
+EndGlobal
